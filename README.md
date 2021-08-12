@@ -1,27 +1,11 @@
 # appShoppingList
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+## Aplicación web Backend y Frontend de lista de compras con sumatoria dinámica, solicitudes HTTP, agregado y eliminado de nuevos productos.
+Tecnologías: NodeJS, Express, Angular, TypeScript, HTML, CSS y CORS.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![ShoppingList](https://user-images.githubusercontent.com/87955722/129133564-29d6262e-0794-4f49-b1ee-9df241e04bc2.png)
+![ShoppingList2](https://user-images.githubusercontent.com/87955722/129133671-ee8c04c7-88bb-400d-a99e-828cec65444d.png)
+![ShoppingList3](https://user-images.githubusercontent.com/87955722/129133704-ff5f0f06-2b47-401f-aa53-84b3e5d0848d.png)
+![ShoppingList4](https://user-images.githubusercontent.com/87955722/129133778-c1c321de-710a-44fd-9ca8-f5ffa3ffe57e.png)
+![ShoppingList5](https://user-images.githubusercontent.com/87955722/129133826-797198b6-3df9-4b89-bf0d-3db7ac483d44.png)
+![ShoppingList6](https://user-images.githubusercontent.com/87955722/129133857-55ea382c-3fc0-428f-81a2-1585c4967695.png)
